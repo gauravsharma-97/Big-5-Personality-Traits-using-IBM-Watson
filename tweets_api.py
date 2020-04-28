@@ -2,10 +2,10 @@ import json
 import tweepy
 import pandas as pd
 
-consumer_key = '4f2Yx1mZngmWBGYy4vAhIPAVs'
-consumer_secret = 'wzADLWTZyjnAGeJTHfp9njFFFGLlqVCswgLRrZsaKGNzE9NwrY'
-access_token = '1041335212318154753-Yqmh3Yv3kYmPAMMdzA4dfLSRPO5Gyu'
-access_token_secret = '9yMd56cqr6QFKrsAKKMXUt7BegArWoZT3k2TzUPFCnkOJ'
+consumer_key = 'Hidden'
+consumer_secret = 'Hidden'
+access_token = 'Hidden'
+access_token_secret = 'Hidden'
 
 lst=[]
 
