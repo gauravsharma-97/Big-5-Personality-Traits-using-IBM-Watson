@@ -14,7 +14,7 @@ The next step was fetching the tweets from the twitter handles gathered in previ
 The next step was using these text files to determine the traits. These files were passes to the IBM Cloud API. IBM Watson's Personality Insights was used. The output received from cloud was in the form of .json file. So it was parsed down and the results were appropriately stored in ```actor_personality.csv```. The values for personality traits can be found for each of the 179 celebrities against their name in the mentioned csv file 
 21 celebrities had to be dropped because of incorrect twitter handles or insufficient tweets (Personality Insights requires min. 100 words). 
 
-#### Note:
+### Note:
 Inclusion of images was attempted but could not be performed because of lack of time and depreciation of most libraries/modules suitable for automating the task (like ```google_images_download``` module). The idea was to automate the downloading of images, convert them to array using ```img_to_array``` and store them in the csv file.
 
 
