@@ -1,8 +1,8 @@
-# Introduction
+### Aim
 
 The aim of this project is to determine Big-5 personality traits of indian celebrities on the basis of their twitter history.
 
-# Process:
+### Process:
 
 **Step 1** 
 The first requirement was data of the indian celebrities names and their twitter handles. To gather this data we used web scraping. The data was scraped from [socialsamosa.com](http://www.socialsamosa.com/). The code can be found in ```Scraping\twitter_list\twitter_list\spiders.handles.py```
