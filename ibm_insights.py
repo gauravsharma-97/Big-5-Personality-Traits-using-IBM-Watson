@@ -7,8 +7,8 @@ from os.path import join, dirname
 import pandas as pd
 from csv import writer
 
-API_Key='Vl1zXxMEDFOCZFA3qDFQrROqGkKhxSnN8Ui-GaE1CBsZ'
-url='https://api.eu-gb.personality-insights.watson.cloud.ibm.com/instances/fa84f80d-b715-4f9a-8a76-3ac321affa75'
+API_Key='Hidden'
+url='Hidden'
 
 authenticator_IAM = IAMAuthenticator(API_Key)
 personality_insights = PersonalityInsightsV3(
